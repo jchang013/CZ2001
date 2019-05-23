@@ -6,10 +6,10 @@ Contributors: Chang Jun Hao, Ngui Seng Yang, Chu Zhen Ting, Ang Wan Qi, Deane Lo
 #### Question
 Given Question: 3. Using open address hashing and linear probing, compare between different hashing functions. 
 
-===Details===
+#### Details
 Refer to report
 
-===Source Code===
+#### Source Code
 1. To run the program first open up command prompt in the folder 'CZ2001 Lab 2 Group 3 Soruce Code' by changing directory 
 	or opening command prompt from the folder itself
 2. Compile the codes using: javac *.java
@@ -27,16 +27,16 @@ Refer to report
 	unsuccesful search along with the number of key comparison and average cpu time
 10. User can enter -1 to exit
 
-### ===CZ2001 Lab 3 Group 3 Source Code===
+### CZ2001 Lab 3 Group 3 Source Code
 Contributors: Chang Jun Hao, Ngui Seng Yang, Chu Zhen Ting, Ang Wan Qi, Deane Looi
 
-===Project===
+#### Project
 Selected Project: Project 3A: Empirical comparison between Insertion Sort and Mergesort
 
-===Details===
+#### Details
 Refer to report
 
-===Source Code===
+#### Source Code
 1. To run the program first open up command prompt in the folder 'CZ2001 Lab 3 Group 3 Soruce Code' by changing directory 
 	or opening command prompt from the folder itself
 2. Compile the codes using: javac *.java
@@ -50,3 +50,28 @@ Refer to report
 	1. First open main.java with any code editor tool
 	2. Uncomment line 31, 33, 35, 37, 39, 46, 55, 64, 74, 84 and 94
 	3. The line should look something like: printArray(mergesort.desc);
+	
+### CZ2001 Lab 4 Group 3 Source Code
+Contributors: Chang Jun Hao, Ngui Seng Yang, Chu Zhen Ting, Ang Wan Qi, Deane Looi
+
+#### Project
+Selected Project: Project 4B - Application of Breadth First Search to Flight Scheduling
+
+#### Details
+Refer to report
+
+#### Source Code
+1. To run the program first open up command prompt in the folder 'CZ2001 Lab 4 Group 3 Soruce Code' by changing directory 
+	or opening command prompt from the folder itself
+2. Compile the codes using: javac *.java
+3. Run the main.java java using: java main
+4. Program will prompt user to enter number of cities, for our testings, 
+	we have used 20, 40, 60, 80, 100
+5. Program will then prompt user to choose between random, max, or min number of non-stop flight
+	enter 1, 2 or 3 as choice
+6. Program will then prompt user to enter source and destination cities
+	enter from 0 to (n-1) as input for selecting the cities to be source or destination
+7. Program will then display shortest path from source to destination, total running time to
+	calculate the shortest path and number of flights required
+8. Enter -1 to terminate program	
+
