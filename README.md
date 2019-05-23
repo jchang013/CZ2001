@@ -1,9 +1,9 @@
 # CZ2001
 
-### ===CZ2001 Lab 2 Group 3 Source Code===
+### CZ2001 Lab 2 Group 3 Source Code
 Contributors: Chang Jun Hao, Ngui Seng Yang, Chu Zhen Ting, Ang Wan Qi, Deane Looi
 
-===Question===
+#### Question
 Given Question: 3. Using open address hashing and linear probing, compare between different hashing functions. 
 
 ===Details===
